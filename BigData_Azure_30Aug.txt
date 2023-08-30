@@ -18,4 +18,14 @@ Datalake:
 Data Lakehouse:
 combination of data warehouse and datalake, choosing the better parts.
 ACID properties are involved, works for all types of data.
-Sandbox
+Sandbox activity 
+Cloud computing basics:
+types  : public/private/hybrid
+IaaS/PaaS/SaaS
+
+
+AZURE SERVICES (FUNDAMENTALS):
+Uses
+region pairs(backup servers)
+availability zones - protects servers/datacenters during downtime
+
